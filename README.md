@@ -29,8 +29,8 @@ This Go program converts a YouTube playlist link into an RSS feed link.
 4. Enter the YouTube playlist link when prompted.
 
 #### Example
-    ```md
-    Please provide a YouTube playlist link:  https://www.youtube.com/playlist?list=PL972B272B66F2D98B
+```
+Please provide a YouTube playlist link:  https://www.youtube.com/playlist?list=PL972B272B66F2D98B
 
-    https://www.youtube.com/feeds/videos.xml?playlist_id=PL972B272B66F2D98B
-    ```
+https://www.youtube.com/feeds/videos.xml?playlist_id=PL972B272B66F2D98B
+```
